@@ -1,4 +1,4 @@
 export async function checkPayment(req) {
-  // 初めはテスト用に常に true
+  // とりあえずテスト用は true
   return true;
 }
